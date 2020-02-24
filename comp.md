@@ -6,12 +6,12 @@ variável de ambiente $RSFROOT configurada no momento da instalação. E mantém
 a cópia local dos arquivos e códigos fonte no diretório em $RSFSRC.
 
 Assim, para adicionar novos programas à sua cópia local do MADAGASCAR. Basta
-adicionar os seus programas em $RSFSRC/user/<seuDiretorio> com o script SConstruct
-de instalação e rodar o 'comp -c <seuDiretorio>'. O programa irá procurar pelo
-seu diretório em $RSFSRC, rodar o SConstruct de compilação e depois rodar
+adicionar os seus programas em $RSFSRC/user/seuDiretorio com o script SConstruct
+de instalação configurado e rodar o 'comp -c seuDiretorio'. O programa irá procurar pelo
+seu diretório em $RSFSRC/user, rodar o SConstruct de compilação e depois rodar
 o comando 'scons install' em $RSFSRC.
 
-Consulte a documentação oficial no site do Madagascar para saber como 
+Consulte a documentação oficial no site do Madagascar para saber mais sobre como 
 [adicionar programas ao pacote madagascar](http://www.ahay.org/wiki/Adding_new_programs_to_Madagascar)
 
 #### RESUMO DAS OPÇÕES
