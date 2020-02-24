@@ -55,9 +55,25 @@ e caixa alta para variáveis.
 Exemplo, 'ARQUIVO_TEMP' é melhor que 'TMP', ou 'NOME_USUARIO' é melhor que 'NOME'.
 E 'formataNomeDiretorio' é melhor que 'fmtdir'.
 
-4. Faça o _Push_ das suas modificações no seu repositório.
+A seguir um exemplo de commit padronizado:
 
-5. Crie um novo _Pull Request_ com uma descrição clara de suas modificações.
+```
+Programa morse - enviar email pelo terminal
+
+Morse utiliza o sendemail para enviar emails através do terminal. Sua
+interface é baseada em Dialog, um programa que gera caixas de diálogo
+interativas na tela do terminal.
+```
+
+**4. Faça o _Push_ das suas modificações no seu repositório.**
+
+Basta utilizar o comando a seguir:
+
+```sh
+~$ git push origin master
+```
+
+**5. Crie um novo _Pull Request_ com uma descrição clara de suas modificações.**
 
 O seu Pull Request deve ter uma descrição mais detalhada das modificações e do propósito delas,
 utilize imagens e trechos de código para detalhar a sua contribuição sempre que possível.
