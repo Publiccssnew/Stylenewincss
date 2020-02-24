@@ -1,46 +1,50 @@
-img - Converte arquivos '.vpl' (arquivos de imagem do MADAGASCAR) em imagens '.jpeg'.
+#### Converte arquivos '.vpl' (arquivos de imagem do MADAGASCAR) em imagens '.jpeg'.
 
-.SH RESUMO
-.B img
-[\-h] [\-\-help] [-v] [\-\-version] [\-i] [\-r] 
-
-.SH DESCRIÇÃO
-.PP
 IMG é um conversor de arquivos de imagem do MADAGASCAR.
 
-.SH OPÇÕES
-IMG aceita as seguintes opções:
-.TP 8
-.B  \-h, \-\-help
+#### RESUMO DAS OPÇÕES
+
+[\-h] [\-\-help] [-v] [\-\-version] [\-i] [\-r] 
+
+#### DESCRIÇÃO DAS OPÇÕES
+
+\-h, \-\-help
 Exibe a mensagem de ajuda do programa e sai.
-.TP 8
-.B \-v, \-\-version
+
+\-v, \-\-version
 Exibe a versão do programa e sai.
-.TP 8
-.B \-i
+
+\-i
 Converter .vpl para .jpeg.
-.TP 8
-.B \-r
+
+\-r
 Remover arquivos .jpeg.
 
 
-.SH EXEMPLOS DE USO
-.PP
-Converte arquivos .vpl da pasta atual para .jpeg
+#### EXEMPLOS DE USO
 
-	~$ img -i 
-.PP
-Converte arquivos .vpl da pasta /home/user para .jpeg
+* Converte arquivos .vpl da pasta atual para .jpeg
 
-	~$ img -i /home/user 
-.PP
-Remove os arquivos .jpeg da pasta /home/user
+```sh
+~$ img -i 
+```
 
-	~$ img -r /home/user 
-.PP
-Remover os arquivos .jpeg da pasta atual
+* Converte arquivos .vpl da pasta /home/user para .jpeg
 
-	~$ img -r
+```sh
+~$ img -i /home/user 
+```
 
+* Remove os arquivos .jpeg da pasta /home/user
+
+```sh
+~$ img -r /home/user 
+```
+
+* Remover os arquivos .jpeg da pasta atual
+
+```sh
+~$ img -r
+```
 
 [Para mais detalhes consulte os manuais de uso dos programas desta biblioteca](https://github.com/Dirack/Shellinclude/blob/master/manuais).
