@@ -2,17 +2,41 @@
 
 A seguir a descrição detalhada do passo-a-passo para contribuir com este projeto:
 
-1. Faça o _fork_ do projeto em <https://github.com/Dirack/Shellinclude/fork>
+**1. Faça o _fork_ do projeto em <https://github.com/Dirack/Shellinclude/fork>**
 
 Este projeto é de código aberto e distribuído sob a lincença GPL3. Ao fazer o fork você automaticamente
 concorda com os termos dispostos nesta Licença de uso.
 
-2. Crie uma _branch_ para sua modificação.
+**2. Crie uma _branch_ para sua modificação.**
 
 Use um nome de branch claro e com contexto. Exemplo, 'feature/saidaProgramaMorseEmJSON' é melhor que
 'feature/morse'.
 
-3. Faça o _commit_ com uma mensagem clara (título de no máximo 50 caracteres e dois parágrafos de texto).
+Adicione cabeçalhos aos seus códigos fonte ou modifique os cabeçalhos já existentes seguindo o template
+abaixo:
+
+```sh
+#!/bin/bash
+#
+# nomeDoPrograma (Shell Script)
+#
+# Dependências: -lynx. Utilize 'sudo apt-get install lynx' para instalar.
+#
+# Objetivo: Baixar arquivos SConstruct da página do MADAGASCAR para a pasta atual
+# no formato correto do SConstruct.
+# 
+# Site: http://www.dirackslouge.online
+#
+# Versão 1.0
+#
+# Programador: Rodolfo A. C. Neves 30/06/2019
+# 
+# Email (Manutenção): rodolfo_profissional@hotmail.com
+# 
+# Licença: GPL-3.0 <https://www.gnu.org/licenses/gpl-3.0.txt>.
+```
+
+**3. Faça o _commit_ com uma mensagem clara (título de no máximo 50 caracteres e dois parágrafos de texto).**
 
 O histórico de commits é tão importante para este repositório quanto o conteúdo de suas modificações. O padrão
 Aqui utilizado é de mensagens de commit com o título de no máximo 50 caracteres e um a dois parágrafos descrevendo cada modificação. _Pull Requests_ com histórico de commits insuficiente serão rejeitados.
