@@ -1,5 +1,6 @@
-* HOME
-* Histórico de versões
-* Sugestões e reportar bugs
-* Autores
-* Veja também
+* [HOME](https://github.com/Dirack/Shellinclude/wiki)
+* [Histórico de versões](https://github.com/Dirack/Shellinclude/wiki/Hist%C3%B3rico-de-vers%C3%B5es)
+* [Contribua](https://github.com/Dirack/Shellinclude/wiki/Contribua)
+* [Sugestões e reportar bugs](https://github.com/Dirack/Shellinclude/wiki/Sugest%C3%B5es-e-reportar-bugs)
+* [Autores](https://github.com/Dirack/Shellinclude/wiki/Autores)
+* [Veja também](https://github.com/Dirack/Shellinclude/wiki/Veja-tamb%C3%A9m)
