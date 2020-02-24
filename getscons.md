@@ -1,3 +1,3 @@
 página do programa getscons (EM DESENVOLVIMENTO)
 
-[Para mais detalhes consulte o manual de uso do programa getscons](https://github.com/Dirack/Shellinclude/blob/master/manuais/getscons.1).
+[Para mais detalhes consulte os manuais de uso dos programas desta biblioteca](https://github.com/Dirack/Shellinclude/blob/master/manuais).
