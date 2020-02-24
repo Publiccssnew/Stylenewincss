@@ -1,78 +1,74 @@
-Gerar cabeçalho padronizado para arquivos de códigos fonte 
-de programas com nome do programa, autor, data, email, etc.
+#### Gerar cabeçalho padronizado para arquivos de códigos fonte de programas
 
-.SH RESUMO
-.B cabecalho
+CABECALHO  é  um  auxiliar  para gerar a documentação dos seus programas.  Ao utilizar
+este programa você pode estabelecer um cabeçalho padrão para a maioria das  linguagens
+de programação que for trabalhar.
+
+
+#### RESUMO DAS OPÇÕES
 [\-h] [\-\-help] [-v] [\-\-version] [\-\-config] [\-\-list] 
 [\-sh] [\-sci] [\-c] [\-c++] [\-tex] [\-py] [\-f90] [\-mf90] [\-html] [\-js]
 [\-css] [\-java] [\-php] [\-html\-php] [\-m]
 
-.SH DESCRIÇÃO
-.PP
-CABECALHO é um auxiliar para gerar a documentação dos seus programas.
-Ao utilizar este programa você pode estabelecer um cabeçalho padrão para
-a maioria das linguagens de programação que for trabalhar.
+#### DESCRIÇÃO DAS OPÇÕES
 
-.SH OPÇÕES
-CABECALHO aceita as seguintes opções:
-.TP 8
-.B  \-h, \-\-help
+\-h, \-\-help
 Exibe a mensagem de ajuda do programa e sai.
-.TP 8
-.B \-v, \-\-version
+
+\-v, \-\-version
 Exibe a versão do programa.
-.TP 8
-.B \-\-config
+
+\-\-config
 Configura variáveis de ambiente do programa cabecalho, 
 como o nome do programador e email a serem exibidos no cabeçalho 
 do programa, por exemplo. Utilizando a sintaxe \fBvariável=valor\fP.
-.TP 8
-.B \-\-list
+
+\-\-list
 Lista todas as variáveis de ambiente já definidas para o programa.
-.TP 8
-.B \-sh
+
+\-sh
 Gerar cabeçalho para um programa em shell script.
-.TP 8
-.B \-sci 
+
+\-sci 
 Gerar cabeçalho para um programa do scilab.
-.TP 8
-.B \-c
+
+\-c
 Gerar cabeçalho para um programa em C.
-.TP 8
-.B \-c++
+
+\-c++
 Gerar cabeçalho para um programa em C++.
-.TP 8
-.B \-tex
+
+\-tex
 Gerar cabeçalho LaTeX.
-.TP 8
-.B \-py
+
+\-py
 Gera cabeçalho Python.
-.TP 8
-.B \-f90
+
+\-f90
 Gerar cabeçalho Fortran 90.
-.TP 8
-.B \-mf90
+
+\-mf90
 Gerar cabeçalho Módulo Fortran 90.
-.TP 8
-.B \-html
+
+\-html
 Gerar cabeçalho de página HTML.
-.TP 8
-.B \-js
+
+\-js
 Gerar cabeçalho de arquivo JavaScript.
-.TP 8
-.B \-css
+
+\-css
 Gerar cabeçalho para folha de estilo CSS.
-.TP 8
-.B \-java
+
+\-java
 Gerar cabeçalho para arquivo classe Java.
-.TP 8
-.B \-php
+
+\-php
 Gerar cabeçalho para arquivo de script PHP.
-.TP 8
-.B \-html\-php
+
+\-html\-php
 Gerar cabeçalho de Página HTML com PHP.
-.TP 8
-.B \-m <objetivo>
+
+\-m <objetivo>
 Acrescentar <objetivo> ao Objetivo no cabeçalho do arquivo.
 
 .SH EXEMPLOS DE USO
