@@ -71,17 +71,24 @@ Gerar cabeçalho de Página HTML com PHP.
 \-m <objetivo>
 Acrescentar <objetivo> ao Objetivo no cabeçalho do arquivo.
 
-.SH EXEMPLOS DE USO
-.PP
-Gerar arquivo .sh (Shell Script) com cabeçalho (Documentação).
+#### EXEMPLOS DE USO
 
-	~$ cabecalho -sh Arquivo.sh
-.PP
-Gerar cabeçalho com o objetivo do programa definido (Use aspas duplas).
+* Gerar arquivo .sh (Shell Script) com cabeçalho (Documentação).
 
-	~$ cabecalho -sh Arquivo.sh -m "Objetivo para este programa"
-.PP
-Configurar o nome do programador para utilizar em todos os cabeçalhos (Use aspas duplas).
+```sh
+~$ cabecalho -sh Arquivo.sh
+```
 
-	~$ cabecalho --config user.programador="Rodolfo Dirack"
+* Gerar cabeçalho com o objetivo do programa definido (Use aspas duplas).
+
+```sh
+~$ cabecalho -sh Arquivo.sh -m "Objetivo para este programa"
+```
+
+* Configurar o nome do programador para utilizar em todos os cabeçalhos (Use aspas duplas).
+
+```sh
+~$ cabecalho --config user.programador="Rodolfo Dirack"
+```
+
 [Para mais detalhes consulte os manuais de uso dos programas desta biblioteca](https://github.com/Dirack/Shellinclude/blob/master/manuais).
