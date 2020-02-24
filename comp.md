@@ -1,4 +1,4 @@
-#### Compila e adiciona programas escritos em linguagem C à cópia local do pacote de processamento sísmico MADAGASCAR.
+#### Compila e instala programas escritos em linguagem C na sua cópia local do pacote de processamento sísmico MADAGASCAR.
 
 COMP é um auxiliar para a compilação e instalação de programas no MADAGASCAR.
 Por padrão o MADAGASCAR instala o pacote em um diretório identificado pela
