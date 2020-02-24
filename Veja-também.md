@@ -1,8 +1,9 @@
-VEJA TAMBÉM
-Visite o nosso canal de divulgação científica no Youtube (Geofisicando) em:
+Aprenda a programar em linguagem Shell Script no nosso canal no Youtube, o 
+[Geofisicando](https://www.youtube.com/watch?v=HRRfgufskaw&list=PLLCFxfe9wkl-k0w-c_1i4sdZPUYt0Yc2P&index=2&t=4s)
 
-	https://www.youtube.com/channel/UCi5XD5PCQtPrIRD0H_GJvag
+Consulte o site oficial do pacote de processamento símsmico 
+[MADAGASCAR](http://www.ahay.org/wiki/Main_Page)
 
-Site oficial do MADAGASCAR:
+Abraços,
 
-	http://www.ahay.org/wiki/Main_Page
+Rodolfo Dirack
