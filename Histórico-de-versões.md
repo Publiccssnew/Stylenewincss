@@ -1,6 +1,7 @@
 * v1.1 (Estável)
-    * Programa lipsum para gerar texto aleatório.
     * Primeira versão estável (Em desenvolvimento).
+    * Permite ao programa comp localizar os diretórios do Madagascar na cópia local a partir da variável de ambiente $RSFSRC (referenciado na [issue#19](https://github.com/Dirack/Shellinclude/issues/19)).
+
 * [v1.0](https://github.com/Dirack/Shellinclude/releases/tag/v1.0-beta.1) (Beta)
     * Versão Beta dos principais scripts:
         * **backup**: Fazer o backup de um arquivo ou de uma lista de arquivos em um arquivo zipado na pasta atual.
