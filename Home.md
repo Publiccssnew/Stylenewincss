@@ -18,6 +18,9 @@ os seus próprios programas.
 * **[jonas](https://github.com/Dirack/Shellinclude/wiki/jonas)**: Criar atalhos para pastas e aliases permanentes.
 * **[lembrete](https://github.com/Dirack/Shellinclude/wiki/lembrete)**: Armazenar lembretes e idéias.
 * **[morse](https://github.com/Dirack/Shellinclude/wiki/morse)**: Enviar email pelo terminal.
+* **Scripts auxiliares**:
+  * [mensagemErro.sh](https://github.com/Dirack/Shellinclude/wiki/mensagemErro.sh)
+  * [mensagemAjuda.sh](https://github.com/Dirack/Shellinclude/wiki/mensagemAjuda.sh)
 
 ### Contribua com a próxima versão - [v1.1](https://github.com/Dirack/Shellinclude) (Estável)
 
