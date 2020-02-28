@@ -8,7 +8,7 @@ A função _exibirMensagemErroProgramaFormatada_ recebe os parâmetros da seguin
 - $2 NUMERO_ERRO
 - $3 MENSAGEM_ERRO
 
-Exibe o erro na tela com o seguinte comando echo e encerra a execução com exit: 
+Exibe o erro na tela com o seguinte comando _echo_ e encerra a execução com _exit_: 
 
 ```sh
 echo -e "\033[31m$NOME_PROGRAMA: ERRO($NUMERO_ERRO):  $MENSAGEM_ERRO\033[m"
@@ -16,21 +16,21 @@ echo -e "\033[31m$NOME_PROGRAMA: ERRO($NUMERO_ERRO):  $MENSAGEM_ERRO\033[m"
 exit "$NUMERO_ERRO"
 ```
 
-Para compreender melhor a utilização desta biblioteca, utilize o seguinte exemplo de uso no terminal do shell:
+Para compreender melhor a utilização desta biblioteca, utilize o seguinte exemplo de uso dentro de um shell script chamado _script.sh_:
 
 ```sh
-~$ source mensagemErro.sh
-~$ NOME_PROGRAMA="TESTE"
-~$ NUMERO_ERRO="Este é um teste"
-~$ MENSAGEM_ERRO="Exemplo de uso de mensagemErro.sh"
-~$ exibirMensagemErroProgramaFormatada "$NOME_PROGRAMA" "$NUMERO_ERRO" "$MENSAGEM_ERRO"
+#!/bin/bash
+# Arquivo script.sh
 
-              NOME
-                      TESTE
-              DESCRIÇÃO
-                      Este é um teste
-              PARÂMETROS
-                      -h --help Exibe ajuda e sai
-              EXEMPLO DE USO
-                      Exemplo de teste
+source mensagemErro.sh
+
+MENSAGEMERRO="Exemplo de uso da biblioteca mensagemErro.sh"
+exibirMensagemErroProgramaFormatada "$(basename $0)" "1" "$MENSAGEMERRO"
+```
+
+A saída esperada será:
+
+```sh
+~$ ./script
+script.sh: ERRO(1):  Exemplo de uso da biblioteca mensagemErro.sh
 ```
