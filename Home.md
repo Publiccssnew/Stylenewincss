@@ -24,9 +24,9 @@ os seus próprios programas.
 
 ### Contribua com a próxima versão - [v1.1](https://github.com/Dirack/Shellinclude) (Estável)
 
-* Ajude-nos a lançar a primeira versão estável da biblioteca [Shellinclude](https://github.com/Dirack/Shellinclude/issues?q=is%3Aopen+is%3Aissue+project%3ADirack%2FShellinclude%2F3)
+* Ajude-nos a lançar a primeira versão estável da biblioteca [Shellinclude](https://github.com/Dirack/Shellinclude/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.1)
 
-### Contribua com a próxima versão - [v1.2](https://github.com/Dirack/Shellinclude) (Beta)
+### Contribua com a próxima versão - [v1.2](https://github.com/Dirack/Shellinclude/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.2) (Beta)
 
 * **[suinstall](https://github.com/Dirack/Shellinclude/issues/17)**: Intalador do pacote de processamento sísmico Seismic Unix (SU).
 * **[madagainstall](https://github.com/Dirack/Shellinclude/issues/18)**: Instalador do pacote de processamento sísmico Madagascar.
