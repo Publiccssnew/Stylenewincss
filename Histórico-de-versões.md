@@ -2,6 +2,8 @@
     * Primeira versão estável (Em desenvolvimento).
     * Permite ao programa comp localizar os diretórios do Madagascar na cópia local a partir da variável de ambiente $RSFSRC (referenciado na [issue#19](https://github.com/Dirack/Shellinclude/issues/19)).
     * Remove as opções obsoletas do programa getscons (referenciado na [issue#20](https://github.com/Dirack/Shellinclude/issues/20))
+    * Todos os programas agora utilizam mensagens padronizadas de erro e de ajuda (referenciado na [issue#24](https://github.com/Dirack/Shellinclude/issues/24) e [issue#30](https://github.com/Dirack/Shellinclude/issues/30))
+    * Corrige o bug no programa img, ao rodar a opção -i em uma pasta sem arquivos '.vpl' mas com subdiretórios que contém arquivos '.vpl' (referenciado na [issue#31](https://github.com/Dirack/Shellinclude/issues/31))
 
 * [v1.0](https://github.com/Dirack/Shellinclude/releases/tag/v1.0-beta.1) (Beta)
     * Versão Beta dos principais scripts:
