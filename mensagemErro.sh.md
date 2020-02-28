@@ -19,12 +19,11 @@ exit "$NUMERO_ERRO"
 Para compreender melhor a utilização desta biblioteca, utilize o seguinte exemplo de uso no terminal do shell:
 
 ```sh
-~$ source mensagemAjuda.sh
+~$ source mensagemErro.sh
 ~$ NOME_PROGRAMA="TESTE"
-~$ DESCRICAO="Este é um teste"
-~$ PARAMETROS="-h --help::Exibe ajuda e sai"
-~$ EXEMPLO_DE_USO="Exemplo de teste"
-~$ exibirMensagemAjudaProgramaFormatada "$NOME_PROGRAMA" "$DESCRICAO" "$PARAMETROS" "$EXEMPLO_DE_USO"
+~$ NUMERO_ERRO="Este é um teste"
+~$ MENSAGEM_ERRO="Exemplo de uso de mensagemErro.sh"
+~$ exibirMensagemErroProgramaFormatada "$NOME_PROGRAMA" "$NUMERO_ERRO" "$MENSAGEM_ERRO"
 
               NOME
                       TESTE
