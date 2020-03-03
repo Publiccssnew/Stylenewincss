@@ -8,7 +8,7 @@ rotineiras do programador no sistema operacional Linux Ubuntu.
 Os scripts da Shellinclude também podem ser utilizados como templates para outros programadores desenvolverem
 os seus próprios programas.
 
-### Programas da versão atual - [v1.0](https://github.com/Dirack/Shellinclude/releases/tag/v1.0-beta.1) (Beta)
+### Programas da versão atual - [v1.1](https://github.com/Dirack/Shellinclude/releases/tag/v1.1) (Estável)
 
 * **[backup](https://github.com/Dirack/Shellinclude/wiki/backup)**: Fazer o backup de um arquivo ou de uma lista de arquivos em um arquivo zipado na pasta atual.
 * **[cabecalho](https://github.com/Dirack/Shellinclude/wiki/cabecalho)**: Gerar cabeçalho para o código fonte de um programa com objetivo, nome do programa e etc.
@@ -21,10 +21,6 @@ os seus próprios programas.
 * **Scripts auxiliares**:
   * [mensagemErro.sh](https://github.com/Dirack/Shellinclude/wiki/mensagemErro.sh)
   * [mensagemAjuda.sh](https://github.com/Dirack/Shellinclude/wiki/mensagemAjuda.sh)
-
-### Contribua com a próxima versão - [v1.1](https://github.com/Dirack/Shellinclude) (Estável)
-
-* Ajude-nos a lançar a primeira versão estável da biblioteca [Shellinclude](https://github.com/Dirack/Shellinclude/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.1)
 
 ### Contribua com a próxima versão - [v1.2](https://github.com/Dirack/Shellinclude/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.2) (Beta)
 
