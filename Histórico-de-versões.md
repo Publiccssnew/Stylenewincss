@@ -1,7 +1,8 @@
 * v1.2 (Beta)(Em desenvolvimento).
     * Versão Beta com novos programas:
       * **lipsum**: (referenciado na [issue#25](https://github.com/Dirack/Shellinclude/issues/25))
-      * 
+      * **suinstall**: (referenciado na [issue#26](https://github.com/Dirack/Shellinclude/issues/26))
+      * **madagainstall**: referenciado na [issue#27](https://github.com/Dirack/Shellinclude/issues/27)
 
 * [v1.1](https://github.com/Dirack/Shellinclude/releases/tag/v1.1) (Estável)
     * Primeira versão estável (Em desenvolvimento).
