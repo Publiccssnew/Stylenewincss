@@ -1,4 +1,7 @@
-* v1.1 (Estável)
+* v1.2 (Beta)(Em desenvolvimento).
+    * Versão Beta com novos programas:
+
+* [v1.1](https://github.com/Dirack/Shellinclude/releases/tag/v1.1) (Estável)
     * Primeira versão estável (Em desenvolvimento).
     * Permite ao programa _comp_ localizar os diretórios do Madagascar na cópia local a partir da variável de ambiente $RSFSRC (referenciado na [issue#19](https://github.com/Dirack/Shellinclude/issues/19)).
     * Remove as opções obsoletas do programa _getscons_ (referenciado na [issue#20](https://github.com/Dirack/Shellinclude/issues/20))
