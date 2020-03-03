@@ -1,5 +1,7 @@
 * v1.2 (Beta)(Em desenvolvimento).
     * Versão Beta com novos programas:
+      * **lipsum**: (referenciado na [issue#25](https://github.com/Dirack/Shellinclude/issues/25))
+      * 
 
 * [v1.1](https://github.com/Dirack/Shellinclude/releases/tag/v1.1) (Estável)
     * Primeira versão estável (Em desenvolvimento).
