@@ -4,6 +4,9 @@
       * **suinstall**: Instalador do pacote de processamento sísmico  Seimic Unix (SU) (referenciado na [issue#26](https://github.com/Dirack/Shellinclude/issues/26))
       * **madagainstall**: Instalador do pacote de processamento sísmico Madagascar (referenciado na [issue#27](https://github.com/Dirack/Shellinclude/issues/27))
 
+* [v1.1.2](https://github.com/Dirack/Shellinclude/releases/tag/v1.1.2) (Estável)
+    * Corrigido bug na configuração das variáveis de ambiente do programa _cabecalho_ (referenciado na [issue#40](https://github.com/Dirack/Shellinclude/issues/40))
+
 * [v1.1.1](https://github.com/Dirack/Shellinclude/releases/tag/v1.1.1) (Estável)
     * Corrigido bug crítico na auto configuração do programa _jonas_ (referenciado na [issue#38](https://github.com/Dirack/Shellinclude/issues/38))
 
