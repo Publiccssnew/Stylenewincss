@@ -10,7 +10,7 @@ os seus próprios programas.
 
 ### Programas da versão atual - [v1.2-beta.1](https://github.com/Dirack/Shellinclude/releases/tag/v1.2-beta.1) (Beta)
 
-* **[madagainstall](https://github.com/Dirack/Shellinclude/wiki/backup)**: Instalar o pacote de processamento sísmico Madagascar.
+* **[madagainstall](https://github.com/Dirack/Shellinclude/wiki/madagainstall)**: Instalar o pacote de processamento sísmico Madagascar.
 * **[backup](https://github.com/Dirack/Shellinclude/wiki/backup)**: Fazer o backup de um arquivo ou de uma lista de arquivos em um arquivo zipado na pasta atual.
 * **[cabecalho](https://github.com/Dirack/Shellinclude/wiki/cabecalho)**: Gerar cabeçalho para o código fonte de um programa com objetivo, nome do programa e etc.
 * **[comp](https://github.com/Dirack/Shellinclude/wiki/comp)**: Compilar e instalar programas na versão local do pacote de processamento sísmico MADAGASCAR.
