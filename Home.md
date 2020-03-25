@@ -8,8 +8,9 @@ rotineiras do programador no sistema operacional Linux Ubuntu.
 Os scripts da Shellinclude também podem ser utilizados como templates para outros programadores desenvolverem
 os seus próprios programas.
 
-### Programas da versão atual - [v1.1.2](https://github.com/Dirack/Shellinclude/releases/tag/v1.1.2) (Estável)
+### Programas da versão atual - [v1.2-beta.1](https://github.com/Dirack/Shellinclude/releases/tag/v1.2-beta.1) (Beta)
 
+* **[madagainstall](https://github.com/Dirack/Shellinclude/wiki/backup)**: Instalar o pacote de processamento sísmico Madagascar.
 * **[backup](https://github.com/Dirack/Shellinclude/wiki/backup)**: Fazer o backup de um arquivo ou de uma lista de arquivos em um arquivo zipado na pasta atual.
 * **[cabecalho](https://github.com/Dirack/Shellinclude/wiki/cabecalho)**: Gerar cabeçalho para o código fonte de um programa com objetivo, nome do programa e etc.
 * **[comp](https://github.com/Dirack/Shellinclude/wiki/comp)**: Compilar e instalar programas na versão local do pacote de processamento sísmico MADAGASCAR.
@@ -22,8 +23,7 @@ os seus próprios programas.
   * [mensagemErro.sh](https://github.com/Dirack/Shellinclude/wiki/mensagemErro.sh)
   * [mensagemAjuda.sh](https://github.com/Dirack/Shellinclude/wiki/mensagemAjuda.sh)
 
-### Contribua com a próxima versão - [v1.2](https://github.com/Dirack/Shellinclude/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.2) (Beta)
+### Contribua com a próxima versão - [v1.2-beta.2](https://github.com/Dirack/Shellinclude/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.2) (Beta)
 
 * **[suinstall](https://github.com/Dirack/Shellinclude/issues/17)**: Intalador do pacote de processamento sísmico Seismic Unix (SU).
-* **[madagainstall](https://github.com/Dirack/Shellinclude/issues/18)**: Instalador do pacote de processamento sísmico Madagascar.
 * **[lipsum](https://github.com/Dirack/Shellinclude/issues/16)**: Gerar texto aleatório (dummy text).
