@@ -1,8 +1,6 @@
-#### Gerar cabeçalho padronizado para arquivos de códigos fonte de programas
+#### Instalação do pacote de processamento sísmico Madagascar-3.0 a partir de um Shell Script
 
-CABECALHO  é  um  auxiliar  para gerar a documentação dos seus programas.  Ao utilizar
-este programa você pode estabelecer um cabeçalho padrão para a maioria das  linguagens
-de programação que for trabalhar.
+MADAGAINSTALL é  um  auxiliar  para a instalação do pacote de processamento sísmico Madagascar.
 
 
 #### RESUMO DAS OPÇÕES
