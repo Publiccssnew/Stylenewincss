@@ -3,7 +3,7 @@
       * **lipsum**: Gerardor de texto aleatório (referenciado na [issue#25](https://github.com/Dirack/Shellinclude/issues/25))
       * **suinstall**: Instalador do pacote de processamento sísmico  Seimic Unix (SU) (referenciado na [issue#26](https://github.com/Dirack/Shellinclude/issues/26))
 
-* [v1.2-beta.1] (Beta).
+* [v1.2-beta.1](https://github.com/Dirack/Shellinclude/releases/tag/v1.2-beta.1) (Beta).
     * Versão Beta com novos programas:
       * **madagainstall**: Instalador do pacote de processamento sísmico Madagascar (referenciado na [issue#27](https://github.com/Dirack/Shellinclude/issues/27))
 
