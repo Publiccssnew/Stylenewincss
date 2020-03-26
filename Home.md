@@ -8,6 +8,8 @@ rotineiras do programador no sistema operacional Linux Ubuntu.
 Os scripts da Shellinclude também podem ser utilizados como templates para outros programadores desenvolverem
 os seus próprios programas.
 
+Baixe os nossos containers do docker pré-configurados da [Shellinclude](https://github.com/Dirack/Shellinclude/packages/162773)
+
 ### Programas da versão atual - [v1.2.2-beta.1](https://github.com/Dirack/Shellinclude/releases/tag/v1.2.2-beta.1) (Beta)
 
 * **[suinstall](https://github.com/Dirack/Shellinclude/wiki/suinstall)**: Instalar o pacote de processamento sísmico Seismic Unix.
