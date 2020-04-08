@@ -25,4 +25,4 @@ Instala o pacote de processamento sísmico Madagascar-3.0 no diretório $HOME
 ~$ madagainstall -i 
 ```
 
-[Para mais detalhes consulte os manuais de uso dos programas desta biblioteca](https://github.com/Dirack/Shellinclude/blob/master/manuais) (Manual ainda não disponível).
+[Para mais detalhes consulte os manuais de uso dos programas desta biblioteca](https://github.com/Dirack/Shellinclude/blob/master/manuais).
