@@ -27,4 +27,4 @@ Baixe os nossos containers do docker com a [Shellinclude pré-configurada](https
   * [mensagemErro.sh](https://github.com/Dirack/Shellinclude/wiki/mensagemErro.sh)
   * [mensagemAjuda.sh](https://github.com/Dirack/Shellinclude/wiki/mensagemAjuda.sh)
 
-### Contribua com a próxima versão - [v1.3](https://github.com/Dirack/Shellinclude/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.3) (Estável)
+### Contribua com a próxima versão - [v1.3.0](https://github.com/Dirack/Shellinclude/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.3) (Estável)
