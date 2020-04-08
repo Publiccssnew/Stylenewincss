@@ -25,4 +25,4 @@ Instala o pacote de processamento sísmico Seismic Unix (SU) no diretório $HOME
 ~$ suinstall -i 
 ```
 
-[Para mais detalhes consulte os manuais de uso dos programas desta biblioteca](https://github.com/Dirack/Shellinclude/blob/master/manuais) (Manual ainda não disponível).
+[Para mais detalhes consulte os manuais de uso dos programas desta biblioteca](https://github.com/Dirack/Shellinclude/blob/master/manuais).
