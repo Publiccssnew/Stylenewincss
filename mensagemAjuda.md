@@ -18,7 +18,7 @@ PARÂMETROS="-h --help:: Exibe esta mensagem de ajuda e sai
             -c:: Realiza alguma coisa"
 ```
 
-A função _formatarTabelaParametros_ recebe a variável com os parâmetros no formato de escrito acima, adiciona a tabulação no início da linha e substitui o caractere separador '::' por um espaço em branco.
+A função _formatarTabelaParametros_ recebe a variável com os parâmetros no formato descrito acima, adiciona a tabulação no início da linha e substitui o caractere separador '::' por um espaço em branco.
 
 Para compreender melhor a utilização desta biblioteca, utilize o seguinte exemplo de uso em um arquivo 'script.sh':
 
