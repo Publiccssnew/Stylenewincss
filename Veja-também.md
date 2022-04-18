@@ -1,4 +1,4 @@
-## Patrocine este processo
+## Patrocine este projeto
 
 - [GPGEOF programa de patrocínio](https://apoia.se/gpgeof)
 
@@ -10,7 +10,7 @@
 ## Veja também:
 
 - [Meu site pessoal e portfólio, Dirack's Lounge](https://dirack.github.io)
-- [Aprenda mais sobre programação no meu canal no YouTube, o Geofisicando (Portuguese material)](https://www.youtube.com/watch?v=HRRfgufskaw&list=PLLCFxfe9wkl-k0w-c_1i4sdZPUYt0Yc2P&index=2&t=4s)
+- [Aprenda mais sobre programação no meu canal no YouTube, o Geofisicando (Material em português)](https://www.youtube.com/watch?v=HRRfgufskaw&list=PLLCFxfe9wkl-k0w-c_1i4sdZPUYt0Yc2P&index=2&t=4s)
 - [Site oficial do pacote de processamento sísmico Madagascar](http://www.ahay.org/wiki/Main_Page)
 
 Abraços,
