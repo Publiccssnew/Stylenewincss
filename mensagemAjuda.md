@@ -39,12 +39,12 @@ A saída esperada será:
 ```sh
 ~$ ./script.sh
 
-              NOME
-                      TESTE
-              DESCRIÇÃO
-                      Este é um teste
-              PARÂMETROS
-                      -h --help Exibe ajuda e sai
-              EXEMPLO DE USO
-                      Exemplo de teste
+NOME
+        TESTE
+DESCRIÇÃO
+        Este é um teste
+PARÂMETROS
+        -h --help Exibe ajuda e sai
+EXEMPLO DE USO
+        Exemplo de teste
 ```
