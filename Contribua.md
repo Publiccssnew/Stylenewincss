@@ -11,7 +11,7 @@ Escolha um template e preencha a descrição da sua solicitação. Não é neces
 
 Se a sua contribuição é a solução de uma issue que já está definida, ignore este passo.
 
-**2. Faça o _fork_ do projeto em <https://github.com/Dirack/proSU/fork>**
+**2. Faça o _fork_ do projeto em <https://github.com/Dirack/Shellinclude/fork>**
 
 Se você quiser contribuir incorporando as suas próprias alterações a este projeto, faça um fork para a sua conta no github e leia a Licença de uso.
 
