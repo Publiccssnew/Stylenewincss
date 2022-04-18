@@ -8,8 +8,6 @@ rotineiras do programador no sistema operacional Linux Ubuntu.
 Os scripts da Shellinclude também podem ser utilizados como templates para outros programadores desenvolverem
 os seus próprios programas.
 
-Baixe os nossos containers do docker com a [Shellinclude pré-configurada](https://github.com/Dirack/Shellinclude/packages/162773)
-
 ### Programas da versão atual - [v0.1.0-beta.1](https://github.com/Dirack/Shellinclude/releases/tag/v0.1.0-beta.1) (Beta)
 
 * **[lipsum](https://github.com/Dirack/Shellinclude/wiki/lipsum)**: Gerar texto aleatório na tela do terminal (dummy text).
