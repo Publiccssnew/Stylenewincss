@@ -22,15 +22,15 @@ Para compreender melhor a utilização desta biblioteca, utilize o seguinte exem
 #!/bin/bash
 # Arquivo script.sh
 
-source mensagemErro.sh
+source mensagemErro
 
-MENSAGEMERRO="Exemplo de uso da biblioteca mensagemErro.sh"
+MENSAGEMERRO="Exemplo de uso da biblioteca mensagemErro"
 exibirMensagemErroProgramaFormatada "$(basename $0)" "1" "$MENSAGEMERRO"
 ```
 
 A saída esperada será:
 
 ```sh
-~$ ./script
+~$ ./script.sh
 script.sh: ERRO(1):  Exemplo de uso da biblioteca mensagemErro.sh
 ```
