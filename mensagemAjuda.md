@@ -34,6 +34,12 @@ EXEMPLO_DE_USO="Exemplo de teste"
 exibirMensagemAjudaProgramaFormatada "$NOME_PROGRAMA" "$DESCRICAO" "$PARAMETROS" "$EXEMPLO_DE_USO"
 ```
 
+Dê permissão de execução ao script:
+
+```sh
+chmod +x script.sh
+```
+
 A saída esperada será:
 
 ```sh
