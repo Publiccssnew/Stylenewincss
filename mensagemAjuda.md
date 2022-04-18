@@ -23,7 +23,7 @@ A função _formatarTabelaParametros_ recebe a variável com os parâmetros no f
 Para compreender melhor a utilização desta biblioteca, utilize o seguinte exemplo de uso no terminal do shell:
 
 ```sh
-~$ source mensagemAjuda.sh
+~$ source mensagemAjuda
 ~$ NOME_PROGRAMA="TESTE"
 ~$ DESCRICAO="Este é um teste"
 ~$ PARAMETROS="-h --help::Exibe ajuda e sai"
