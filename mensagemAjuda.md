@@ -40,11 +40,15 @@ Dê permissão de execução ao script:
 chmod +x script.sh
 ```
 
+Execute o script com:
+
+```sh
+./script.sh
+```
+
 A saída esperada será:
 
 ```sh
-~$ ./script.sh
-
 NOME
         TESTE
 DESCRIÇÃO
