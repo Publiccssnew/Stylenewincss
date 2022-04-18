@@ -28,9 +28,20 @@ MENSAGEMERRO="Exemplo de uso da biblioteca mensagemErro"
 exibirMensagemErroProgramaFormatada "$(basename $0)" "1" "$MENSAGEMERRO"
 ```
 
-A saída esperada será:
+Dê permissão de execução ao script:
 
 ```sh
-~$ ./script.sh
+chmod +x script.sh
+```
+
+Execute o script com:
+
+```sh
+./script.sh
+```
+
+A saída esperada será:
+
+```
 script.sh: ERRO(1):  Exemplo de uso da biblioteca mensagemErro.sh
 ```
