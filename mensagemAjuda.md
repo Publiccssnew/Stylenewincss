@@ -20,15 +20,24 @@ PARÂMETROS="-h --help:: Exibe esta mensagem de ajuda e sai
 
 A função _formatarTabelaParametros_ recebe a variável com os parâmetros no formato de escrito acima, adiciona a tabulação no início da linha e substitui o caractere separador '::' por um espaço em branco.
 
-Para compreender melhor a utilização desta biblioteca, utilize o seguinte exemplo de uso no terminal do shell:
+Para compreender melhor a utilização desta biblioteca, utilize o seguinte exemplo de uso em um arquivo 'script.sh':
 
 ```sh
-~$ source mensagemAjuda
-~$ NOME_PROGRAMA="TESTE"
-~$ DESCRICAO="Este é um teste"
-~$ PARAMETROS="-h --help::Exibe ajuda e sai"
-~$ EXEMPLO_DE_USO="Exemplo de teste"
-~$ exibirMensagemAjudaProgramaFormatada "$NOME_PROGRAMA" "$DESCRICAO" "$PARAMETROS" "$EXEMPLO_DE_USO"
+#!/bin/bash
+source mensagemAjuda
+
+NOME_PROGRAMA="TESTE"
+DESCRICAO="Este é um teste"
+PARAMETROS="-h --help::Exibe ajuda e sai"
+EXEMPLO_DE_USO="Exemplo de teste"
+
+exibirMensagemAjudaProgramaFormatada "$NOME_PROGRAMA" "$DESCRICAO" "$PARAMETROS" "$EXEMPLO_DE_USO"
+```
+
+A saída esperada será:
+
+```sh
+~$ ./script.sh
 
               NOME
                       TESTE
