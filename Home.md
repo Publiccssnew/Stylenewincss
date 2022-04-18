@@ -16,8 +16,8 @@ os seus próprios programas.
 * **[img](https://github.com/Dirack/Shellinclude/wiki/img)**: Converter .vpl (arquivos de imagem do MADAGASCAR) em imagens .jpeg
 * **[jonas](https://github.com/Dirack/Shellinclude/wiki/jonas)**: Criar atalhos para pastas e aliases permanentes.
 * **Scripts auxiliares**:
-  * [mensagemErro.sh](https://github.com/Dirack/Shellinclude/wiki/mensagemErro.sh)
-  * [mensagemAjuda.sh](https://github.com/Dirack/Shellinclude/wiki/mensagemAjuda.sh)
+  * [mensagemErro](https://github.com/Dirack/Shellinclude/wiki/mensagemErro): Formatar mensagem de erro dos programas da biblioteca Shellinclude
+  * [mensagemAjuda](https://github.com/Dirack/Shellinclude/wiki/mensagemAjuda): Formatar mensagem de ajuda dos programas da biblioteca Shellinclude
 
 ### Contribua com a próxima versão - [v1.0.0](https://github.com/Dirack/Shellinclude/issues) (Estável)
 * **[suinstall](https://github.com/Dirack/Shellinclude/wiki/suinstall)**: Instalar o pacote de processamento sísmico Seismic Unix.
