@@ -1,5 +1,5 @@
 Qualquer sugestão ou problema (bug) encontrado durante a utilização deste material, 
-deve ser reportado na aba [issues](https://github.com/Dirack/Shell-Script/issues) deste repositório.
+deve ser reportado na aba [issues](https://github.com/Dirack/Shellinclude/issues) deste repositório.
 
 E deve-se notificar por email o responsável pela manutenção do código:
 
